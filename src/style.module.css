@@ -1,4 +1,8 @@
 .results {
-  font-family: "Courier New", Courier, monospace;
+  /* font-family: "Courier New", Courier, monospace; */
   font-size: 0.75rem;
+}
+
+.valid {
+  font-weight: bold;
 }
